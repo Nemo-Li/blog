@@ -111,3 +111,11 @@ sudo apt-get install openjdk-7-jdk
 sudo apt-get install git-core gnupg flex bison gperf build-essential zip curl zlib1g-dev gcc-multilib g++-multilib libc6-dev-i386 lib32ncurses5-dev x11proto-core-dev libx11-dev lib32z-dev ccache libgl1-mesa-dev libxml2-utils xsltproc unzip
 ```
 
+
+
+启动Android模拟器命令
+
+```Shell
+emulator @Nexus_6_API_23 -system /Users/nemoli/Desktop/sourceImg/system.img -data /Users/nemoli/Desktop/sourceImg/userdata.img -ramdisk /Users/nemoli/Desktop/sourceImg/ramdisk.img
+```
+
