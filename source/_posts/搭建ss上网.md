@@ -33,7 +33,8 @@ chmod +x shadowsocks.sh
 #### 安装BBR加速
 
 ```shell
-1. wget –no-check-certificate https://github.com/teddysun/across/raw/master/bbr.sh
-2. chmod +x bbr.sh
-3. ./bbr.sh
+wget –no-check-certificate https://github.com/teddysun/across/raw/master/bbr.sh
+chmod +x bbr.sh
+./bbr.sh
 ```
+
