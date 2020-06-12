@@ -40,7 +40,7 @@ Cookie: sid=1342077140226724
 
 #### 1.2.1 报文首部
 
-![HTTP 请求报文的结构](/Users/nemoli/Blog/source/images/报文组成.jpg)
+![](message.jpg)
 
 请求报文首部信息实例：
 
